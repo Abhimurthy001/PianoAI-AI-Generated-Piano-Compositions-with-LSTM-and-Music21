@@ -22,7 +22,7 @@ To compose music using AI:
 
 1. **Download:** Obtain the project files by clicking "Code."
 2. **Install Dependencies:** Use the Anaconda Prompt to install necessary libraries.
-3. **Open the Notebook:** Access `code.ipynb` using Jupyter Notebook or Visual Studio Code.
+3. **Open the Notebook:** Access `compose_music.ipynb` using Jupyter Notebook or Visual Studio Code.
 4. **Execute the Cells:** Run each cell sequentially to build and train the AI model.
 5. **Training Time:** Please be patient as model training takes approximately 7-8 hours.
 6. **Generate Music:** Execute the final cell to save your composition as `AI_composed_music.mid`.
