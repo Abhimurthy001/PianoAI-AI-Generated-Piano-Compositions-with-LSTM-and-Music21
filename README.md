@@ -1,7 +1,3 @@
-# MUSIFY - Music Composition using AI
-
-This project, **MUSIFY**, allows you to create original piano compositions using Artificial Intelligence.
-
 ## Project Overview
 
 - **Programming Language:** Python
