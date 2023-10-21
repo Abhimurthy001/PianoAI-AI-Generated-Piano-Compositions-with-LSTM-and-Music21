@@ -26,5 +26,4 @@ To compose music using AI:
 
 Fine-tune parameters in the code to customize your musical results.
 
-Embrace the world of AI-composed music with MUSIFY!
 
